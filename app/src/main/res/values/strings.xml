@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="closedrawer">Close Drawer </string>
+    <string name="opendrawer"> Open Drawer</string>
+    <string name="extended_fab_content_desc"> Done </string>
+
+
+
+</resources>

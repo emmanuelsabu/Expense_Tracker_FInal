@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!--    <group>-->
+    <group android:id="@+id/grp1">
+    <item android:title="Profile"
+        android:icon="@drawable/profile"
+        android:id="@+id/profile"/>
+    </group>
+
+    <group
+        android:id="@+id/grp2">
+    <item
+        android:title="Transaction"
+        android:icon="@drawable/transaction"
+        android:id="@+id/transaction"
+        >
+        <menu>
+            <item
+                android:id="@+id/trans1"
+                android:title="Daily Transaction"
+                />
+            <item
+                android:id="@+id/trans2"
+                android:title="Monthly Transaction"
+                />
+            <item
+                android:id="@+id/trans3"
+                android:title="Yearly Transaction"
+                />
+        </menu>
+    </item>
+    </group>
+    <group
+        android:id="@+id/grp3">
+    <item
+        android:title="Expense Category"
+        android:icon="@drawable/category"
+        android:id="@+id/category">
+        <menu>
+            <item
+                android:id="@+id/categ1"
+                android:title="Monthly Category"
+                />
+            <item
+                android:id="@+id/categ2"
+                android:title="Yearly Category"
+                />
+        </menu>
+    </item>
+    </group>
+    <group android:id="@+id/grp4">
+    <item android:title="Log Out" android:icon="@drawable/logout" android:id="@+id/logout"/>
+    </group>
+
+</menu>

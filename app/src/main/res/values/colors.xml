@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#008577</color>
+    <color name="colorAccent">#0cbf0c</color>
+    <color name="red">#ffff0000</color>
+    <color name="brown">#52361b</color>
+    <color name="yellow">#578802</color>
+    <color name="lightyellow">#ebe10c</color>
+    <color name="cyan">#00FFFF</color>
+
+    <color name="orange">#d57d03</color>
+    <color name="cream">#E0E0E0</color>
+    <color name="test">#EEE6E6D7</color>
+
+    <color name="lightgreen">#b8d29a</color>
+    <color name="darkgreen">#9eb089</color>
+    <color name="white">#fffdfd</color>
+    <color name="purple">#800080</color>
+    <color name="darkgray">#696969</color>
+    C9FFE5
+    <color name="lightgreen1">#C9FFE5</color>
+
+    <color name="black">#000000</color>
+    <color name="green">#0cbf0c</color>
+    <color name="piechart_blue">#0000FF</color>
+    <color name="piechart_red">#FF0000</color>
+
+    <color name="maroon">#8A0808</color>
+    <color name="dark_purple">#2A0A29</color>
+    <color name="dark_green">#0B3B39</color>
+    <color name="pink">#9A2EFE</color>
+    <color name="aa">#0080FF</color>
+    <color name="dark_orange">#B45F04</color>
+    <color name="bb">#AEB404</color>
+    <color name="blue">#01A9DB</color>
+
+
+
+
+</resources>
